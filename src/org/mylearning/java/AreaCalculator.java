@@ -1,3 +1,5 @@
+package org.mylearning.java;
+
 public class AreaCalculator {
     public static final double mathpi= Math.PI;;
     public static double area(double radius){

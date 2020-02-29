@@ -1,8 +1,76 @@
 package org.mylearning.java;
-
 public class Main {
-
     public static void main(String[] args) {
-        System.out.println("Pushed to Git");
+//                MegaBytesConverter.printMegaBytesAndKiloBytes(2500);
+//                boolean isBarking=false;
+//                boolean isLeapYear=false;
+//                boolean isBothSame;
+//                boolean issumequal;
+//                boolean hasTeen;
+//                double valarea;
+//                boolean isCatPlaying;
+                  boolean isPerfectNumber;
+                  boolean isNumberPalindrome;
+                  int sumOdd;
+                  int DigitSum;
+                  int lastDigit=0;
+                  int firstDigit=0;
+                  int evenDigit=0;
+                  boolean isSharedDigit;
+                  boolean isSharedLastDigit;
+                  int CommonDivisor;
+                  boolean isFullbag;
+//                String getDurationString;
+//                isBarking=BarkingDog.shouldWakeUp(true,22);
+//                System.out.println("is Barking "+isBarking);
+//                isLeapYear=LeapYear.isLeapYear(1924);
+//                System.out.println("isLeapYear "+isLeapYear);
+//                System.out.println("is Lear Year "+1800%4);
+//                isBothSame=DecimalComparator.areEqualByThreeDecimalPlaces(-3.1756,-3.175 );
+//                System.out.println("isBothSame"+isBothSame);
+//                issumequal=EqualSumChecker.hasEqualSum(1,1,1);
+//                System.out.println("issumequal"+issumequal);
+//                hasTeen=TeenNumberChecker.hasTeen(22,15,34);
+//                System.out.println("hasTeen"+hasTeen);
+//                getDurationString=SecondsAndMinutesChanllenge.getDurationString(0);
+//                System.out.println("getDurationString->"+getDurationString);
+//                valarea=AreaCalculator.area(5,4);
+//                System.out.println("AreaCalculator->"+valarea);
+//                MinutesToYearsDaysCalculator.printYearsAndDays(0);
+//                IntEqualityPrinter.printEqual(1,2,1);
+//                IntEqualityPrinter.printEqual(2,1,1);
+//                IntEqualityPrinter.printEqual(1,1,2);
+//                isCatPlaying=PlayingCat.isCatPlaying(false,35);
+//                System.out.println("isCatPlaying "+isCatPlaying);
+//                Increment.incremental();
+                // IsPrime.isPrime(10);
+                /* sumOdd=SumOddRange.sumOdd(100,1000);
+                   System.out.println("sumOdd"+sumOdd);*/
+                   //DigitSum=DigitSumChallenge.sumDigits(32123);
+                    //System.out.println("DigitSum"+DigitSum);
+                   // isNumberPalindrome=NumberPalindrome.isPalindrome(-1221);
+                   //System.out.println("isNumberPalindrome"+isNumberPalindrome);
+                   // firstDigit=FirstLastDigitSum.sumFirstAndLastDigit(5);
+                 //  System.out.println("firstDigit"+firstDigit);
+                  // evenDigit=EvenDigitSum.getEvenDigitSum(123456789);
+                  //  System.out.println("evenDigit"+evenDigit);
+                   //isSharedDigit=SharedDigit.hasSharedDigit(100,0);
+                   // System.out.println("isSharedDigit"+isSharedDigit);
+                  //  isSharedLastDigit=LastDigitChecker.hasSameLastDigit(99,69,42);
+                   //  System.out.println("isSharedLastDigit"+isSharedLastDigit);
+                    // CommonDivisor=GreatestCommonDivisor.getGreatestCommonDivisor(25,15);
+                      // System.out.println("CommonDivisor"+CommonDivisor);
+                     //   FactorPrinter.printFactors(-1);
+                 //   SumOddRange.isOdd(4);
+                 // SumThreeandFive.SumThreeFiveChallenge();
+                  //isPerfectNumber=PerfectNumber.isPerfectNumber(28);
+                 // System.out.println("isPerfectNumber"+isPerfectNumber);
+                // int reverseNumber=NumberToWords.reverse(120);
+                // System.out.println("reverseNumber "+reverseNumber);
+                 //int digitcount=NumberToWords.getDigitCount(5200);
+                 //System.out.println("digitCount"+digitcount);
+                 // NumberToWords.numberToWords(-222);
+                isFullbag=FlourPacker.canPack(20,4,19);
+                System.out.println("isFullbag"+isFullbag);
     }
 }
